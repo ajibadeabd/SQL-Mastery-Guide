@@ -41,7 +41,11 @@ To start working with SQL, you'll need a database environment. This section guid
 
 
 
-## Project: Online Bookstore Database
+
+
+
+
+#### Project: Online Bookstore Database
 
 **Project Description:**
 Imagine you are tasked with designing a database for an online bookstore. The database should store information about books, authors, customers, orders, and reviews. This project will involve creating multiple tables, defining relationships, and performing various SQL operations.
