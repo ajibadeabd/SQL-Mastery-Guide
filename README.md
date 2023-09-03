@@ -38,3 +38,18 @@ To start working with SQL, you'll need a database environment. This section guid
 - Creating a Database: How to create your first database and configure its settings.
 - SQL Clients: Choosing and setting up SQL client tools for interacting with databases.
 - Connecting to a Database: Establishing a connection between your SQL client and the database.
+
+
+
+## Project: Online Bookstore Database
+
+**Project Description:**
+Imagine you are tasked with designing a database for an online bookstore. The database should store information about books, authors, customers, orders, and reviews. This project will involve creating multiple tables, defining relationships, and performing various SQL operations.
+
+**Tables to Create:**
+(Include the list of tables here as mentioned in the previous response.)
+
+**Project Tasks:**
+(Include the list of project tasks here as mentioned in the previous response.)
+
+This project will provide learners with hands-on experience in designing a relational database, populating it with data, and performing a wide range of SQL operations. It covers basic to advanced SQL concepts and prepares them for real-world database management tasks.
