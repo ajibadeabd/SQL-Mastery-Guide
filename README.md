@@ -86,5 +86,10 @@ Imagine you are tasked with designing a database for an online bookstore. The da
 8. Subqueries: Employ subqueries to answer specific questions.
 9. Views and Indexes: Create views and indexes for optimization.
 10. Stored Procedures: Develop stored procedures for automation.
+ 
 
-This project will provide learners with hands-on experience in designing a relational database, populating it with data, and performing a wide range of SQL operations. It covers basic to advanced SQL concepts and prepares them for real-world database management tasks.
+**Getting Started:**
+- Clone this repository to your local machine using `git clone`.
+- Create a branch for each lesson or topic you want to explore using `git checkout -b lesson-1`.
+
+Feel free to explore
