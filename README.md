@@ -45,15 +45,46 @@ To start working with SQL, you'll need a database environment. This section guid
 
 
 
-### Project: Online Bookstore Database
+### Project: Online Bookstore Database (Beginning with Python)
 
 **Project Description:**
 Imagine you are tasked with designing a database for an online bookstore. The database should store information about books, authors, customers, orders, and reviews. This project will involve creating multiple tables, defining relationships, and performing various SQL operations.
 
 **Tables to Create:**
 (Include the list of tables here as mentioned in the previous response.)
+ 
+**Project Description:**
+Imagine you are tasked with designing a database for an online bookstore. The database should store information about books, authors, customers, orders, and reviews. This project will involve creating multiple tables, defining relationships, and performing various SQL operations.
+
+**Tables to Create:**
+1. **Books**
+   - Fields: book_id (Primary Key), title, author_id (Foreign Key), genre, publication_date, price, inventory_quantity
+
+2. **Authors**
+   - Fields: author_id (Primary Key), author_name, birth_date, nationality
+
+3. **Customers**
+   - Fields: customer_id (Primary Key), first_name, last_name, email, address, phone
+
+4. **Orders**
+   - Fields: order_id (Primary Key), customer_id (Foreign Key), order_date, total_amount
+
+5. **Order_Items**
+   - Fields: order_item_id (Primary Key), order_id (Foreign Key), book_id (Foreign Key), quantity, subtotal
+
+6. **Reviews**
+   - Fields: review_id (Primary Key), book_id (Foreign Key), customer_id (Foreign Key), rating, review_text, review_date
 
 **Project Tasks:**
-(Include the list of project tasks here as mentioned in the previous response.)
+1. Database Schema Design: Create the tables mentioned above with appropriate data types and relationships.
+2. Data Population: Insert sample data into the tables, including books, authors, customers, and orders.
+3. Basic Queries: Write SQL queries to retrieve various information from the database.
+4. Advanced Queries: Perform more complex operations using SQL.
+5. Data Modification: Implement SQL statements to add, update, and delete records.
+6. Join Operations: Practice different types of joins to retrieve meaningful data from multiple tables.
+7. Aggregations and Grouping: Use aggregate functions to find statistics and group data.
+8. Subqueries: Employ subqueries to answer specific questions.
+9. Views and Indexes: Create views and indexes for optimization.
+10. Stored Procedures: Develop stored procedures for automation.
 
 This project will provide learners with hands-on experience in designing a relational database, populating it with data, and performing a wide range of SQL operations. It covers basic to advanced SQL concepts and prepares them for real-world database management tasks.
